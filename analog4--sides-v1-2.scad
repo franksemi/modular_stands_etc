@@ -1,7 +1,4 @@
 
-
-// eurorack eowave sides v1
-
 /*
 module 3d_layout() {
 translate ([0,-180,0]) side(); 
