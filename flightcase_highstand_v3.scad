@@ -33,5 +33,3 @@ difference() {
 }
 }
 
-
-CircleFragments = 30;
